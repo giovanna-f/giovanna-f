@@ -46,5 +46,5 @@ Em breve adicionarei:
 - LinkedIn: [linkedin.com/in/giovanna-f](https://www.linkedin.com/in/giovanna-f)
 - GitHub: https://github.com/giovanna-f
 - Email: fernandesg.8434@gmail.com
-- Telefone: [55 34 99878-4742](tel:+5534998784742)
+- Telefone: +55 34 99878-4742
 
