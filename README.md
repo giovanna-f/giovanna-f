@@ -45,3 +45,5 @@ Em breve adicionarei:
 
 - LinkedIn: [linkedin.com/in/giovanna-fernandes-974121388](https://www.linkedin.com/in/giovanna-fernandes-974121388)
 - GitHub: https://github.com/giovanna-f
+- Email: fernandesg.8434@gmail.com
+
