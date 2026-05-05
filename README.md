@@ -17,8 +17,11 @@ Desenvolver minha base técnica em programação e construção de sistemas, bus
 - HTML e CSS  
 - Linguagem C  
 - Java e js
+- Python
 - MySQL    
 - Excel e Google Sheets
+- N8N
+- PowerBI
   
 ---
 
@@ -27,6 +30,7 @@ Desenvolver minha base técnica em programação e construção de sistemas, bus
 - Back-end com Java  
 - Banco de dados  
 - Estrutura de projetos de software
+- Automatização e fluxo de dados
   
 ---
 
