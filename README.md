@@ -38,10 +38,7 @@ Desenvolver minha base técnica em programação e construção de sistemas, bus
 
 Aqui você encontrará meus projetos acadêmicos e exercícios práticos.
 
-Em breve adicionarei:
-- Projetos em HTML e CSS  
-- Exercícios em C e Java  
-- Estudos com banco de dados MySQL  
+(https://github.com/giovanna-f/dashboard-clinica-n8n-powerbi)  
 
 ---
 
